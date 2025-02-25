@@ -9,7 +9,7 @@ LocaleLoom is your comprehensive guide to navigating and enjoying city life.
 
 Welcome to **LocaleLoom**, where local insights are woven into practical guides for thriving in cities across India and beyond. Starting with Bengaluru, this repository combines insider knowledge, cost information, lifestyle hacks, and travel tips to help you experience urban living to the fullest—whether you're a resident or a visitor.
 
-> **Note:** This is a work in progress. I am adding more cities and expanding existing content. If you have suggestions or want to contribute, please open an issue or a pull request. I've chosen markdown files for all content as they'll be easier to render when I create the project website in the future.
+> This is a work in progress. I am adding more cities and expanding existing content. If you have suggestions or want to contribute, please open an issue or a pull request. I've chosen MDX files for all content as they'll support both markdown and interactive components when I create the project website in the future.
 
 ## Project Structure
 
@@ -20,27 +20,28 @@ localeloom/
 ├── CONTRIBUTING.md         # Guidelines for contributors
 ├── cities/
 │   ├── bengaluru/
+│   │   ├── about-bengaluru.md # Overview of Bengaluru, including Kannada basics
 │   │   ├── transport.md    # Getting around Bengaluru
 │   │   ├── expenses.md     # Living costs breakdown
 │   │   ├── smart-living.md # Local life hacks
-│   │   ├── travel-tips.md  # Tourist attractions and visitor advice
+│   │   ├── travel-guide.md  # Tourist attractions and visitor advice
 │   │   ├── food-guide.md   # Culinary experiences and recommendations
 │   │   ├── etc.md          # Additional local insights
 │   │   └── contribute.md   # How to contribute to this city guide
 │   └── [future-city]/      # Template for upcoming city guides
+│       ├── about-[city].md # Overview of [future-city], including local language
 │       ├── transport.md    # Getting around options
 │       ├── expenses.md     # Cost of living details
 │       ├── smart-living.md # Local life hacks
-│       ├── travel-tips.md  # Tourist information and visitor advice
+│       ├── travel-guide.md  # Tourist information and visitor advice
 │       ├── food-guide.md   # Where and what to eat
 │       └── etc.md          # Other useful information
 ```
 
 ## What's Inside?
 
-Each city guide provides:
+Navigate like a local with transportation options and tips
 
-- **Transport**: Navigate like a local with transportation options and tips
 - **Expenses**: Plan your budget with current, real-world costs
 - **Smart Living**: Optimize your experience with city-specific insights
 - **Travel Tips**: Essential information for visitors and tourists
@@ -49,13 +50,13 @@ Each city guide provides:
 
 ## Available Cities
 
-- **[Bengaluru](cities/bengaluru/transport.md)**: Explore India's Silicon Valley
+#### Bengaluru (ಬೆಂಗಳೂರು)
 
 ## How to Use
 
 - Browse the `cities/` folder for your destination of interest
-- Each topic is contained in a separate `.md` file for easy reading and sharing
-- Use the travel-tips section when planning a visit or vacation
+- Each topic is contained in a separate `.mdx` file for easy reading and sharing
+- Use the travel guide section when planning a visit or vacation
 
 ## Why LocaleLoom?
 

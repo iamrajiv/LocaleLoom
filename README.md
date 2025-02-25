@@ -1,13 +1,11 @@
-<div align="center">
-<h1>LocaleLoom</h1>
-<p>
-LocaleLoom is your comprehensive guide to navigating and enjoying city life.
-</p>
+<div align="left">
+<img src="assets/localeloom.svg" height= "auto" width="auto" />
+<br />
 </div>
 
 ## About
 
-Welcome to **LocaleLoom**, where local insights are woven into practical guides for thriving in cities across India and beyond. Starting with Bengaluru, this repository combines insider knowledge, cost information, lifestyle hacks, and travel tips to help you experience urban living to the fullest—whether you're a resident or a visitor.
+Welcome to **LocaleLoom**, where local insights are woven into practical guides for thriving in cities across India and beyond. Starting with Bengaluru, this repository combines insider knowledge, cost information, lifestyle hacks, and travel tips to help you experience urban living to the fullest—whether you're a resident or a visitor. In nutshell, LocaleLoom is your comprehensive guide to navigating and enjoying city life.
 
 > This is a work in progress. I am adding more cities and expanding existing content. If you have suggestions or want to contribute, please open an issue or a pull request. I've chosen MDX files for all content as they'll support both markdown and interactive components when I create the project website in the future.
 

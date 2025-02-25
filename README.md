@@ -13,27 +13,27 @@ Welcome to **LocaleLoom**, where local insights are woven into practical guides 
 
 ```bash
 localeloom/
-├── README.md                   # Project overview and usage instructions
-├── LICENSE.md                  # MIT License for open-source use
-├── CONTRIBUTING.md             # Guidelines for contributors
+├── README.mdx                   # Project overview and usage instructions
+├── LICENSE.mdx                  # MIT License for open-source use
+├── CONTRIBUTING.mdx             # Guidelines for contributors
 ├── cities/
 │   ├── bengaluru/
-│   │   ├── README.md           # Overview of Bengaluru, including Kannada basics
-│   │   ├── transport.md        # Getting around Bengaluru
-│   │   ├── expenses.md         # Living costs breakdown
-│   │   ├── smart-living.md     # Local life hacks
-│   │   ├── travel-guide.md     # Tourist attractions and visitor advice
-│   │   ├── food-guide.md       # Culinary experiences and recommendations
-│   │   ├── etc.md              # Additional local insights
-│   │   └── contribute.md       # How to contribute to this city guide
-│   └── [future-city]/          # Template for upcoming city guides
-│       ├── README.md           # Overview of [future-city], including local language
-│       ├── transport.md        # Getting around options
-│       ├── expenses.md         # Cost of living details
-│       ├── smart-living.md     # Local life hacks
-│       ├── travel-guide.md     # Tourist information and visitor advice
-│       ├── food-guide.md       # Where and what to eat
-│       └── etc.md              # Other useful information
+│   │   ├── README.mdx           # Overview of Bengaluru, including Kannada basics
+│   │   ├── transport.mdx        # Getting around Bengaluru
+│   │   ├── expenses.mdx         # Living costs breakdown
+│   │   ├── smart-living.mdx     # Local life hacks
+│   │   ├── travel-guide.mdx     # Tourist attractions and visitor advice
+│   │   ├── food-guide.mdx       # Culinary experiences and recommendations
+│   │   ├── etc.mdx              # Additional local insights
+│   │   └── contribute.mdx       # How to contribute to this city guide
+│   └── [future-city]/           # Template for upcoming city guides
+│       ├── README.mdx           # Overview of [future-city], including local language
+│       ├── transport.mdx        # Getting around options
+│       ├── expenses.mdx         # Cost of living details
+│       ├── smart-living.mdx     # Local life hacks
+│       ├── travel-guide.mdx     # Tourist information and visitor advice
+│       ├── food-guide.mdx       # Where and what to eat
+│       └── etc.mdx              # Other useful information
 ```
 
 ## What's Inside?
